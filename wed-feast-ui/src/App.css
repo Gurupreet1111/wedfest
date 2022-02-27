@@ -1,0 +1,30 @@
+#root {
+    height: 370vh;
+    display: flex;
+    flex-direction: column;
+   /* padding:20px 120px; */
+    background-color: #ececec;
+    /* background-image: linear-gradient(to right, #FFF3F0,#FEEDE9,#FDE5E3,#FBDEDF,#FAD9DD); */
+    /* background-color: #FAD9DD; */
+}
+
+.App {
+  flex:1;
+  display:flex;
+  flex-direction: column;
+  background-color: white;
+}
+
+.App > div {
+  flex:1;
+}
+.rightfixed {
+  position: fixed;
+  top: 28%;
+  right: 0;
+  height: 335px;
+  z-index: 9999;
+  width: 39px;
+}
+
+/* background-image: linear-gradient( #6B0772,#AF1281,#CF268A,#E65C9C,#FB8CAB); */

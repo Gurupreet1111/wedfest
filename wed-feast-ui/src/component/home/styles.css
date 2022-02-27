@@ -1,0 +1,184 @@
+.home-container {
+    display:flex;
+    flex:1;
+    flex-direction: column;
+}
+.advertisement {
+    flex:0.5
+}
+.cards {
+    flex:1
+}
+
+img {
+  max-width: 100%;
+} 
+
+.carousel-inner { 
+    height:300px;
+    display: flex;
+}
+
+.container {
+    position: relative;
+}
+.center {
+    position: relative;
+    padding-top: 10px;
+  }
+.header1 {
+    position: absolute;
+    top: 70%;
+    left: 0;
+    margin: 5px;
+    z-index: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+
+  .community {
+    position: absolute;
+    top: 25%;
+    left: 0;
+    margin: 5px;
+    z-index: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+
+  .get-quote {
+    position: absolute;
+    top: 20%;
+    left: 83.5%;
+    margin: 5px;
+    z-index: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .create-invite {
+    position: absolute;
+    top: 70%;
+    left: 82.5%;
+    z-index: 1;
+    display: flex;
+    width:300px;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .triangle-right {
+	width: 0;
+	height: 0;
+	border-top: 25px solid transparent;
+	border-left: 50px solid #ff3a9c;
+	border-bottom: 25px solid transparent;
+    
+}
+
+.triangle-left {
+  width: 0;
+  height: 0;
+  border-top: 25px solid transparent;
+  border-right: 50px solid #ff3a9c;
+  border-bottom: 25px solid transparent;
+}
+
+
+/* .ad-btn .btn-primary {
+    color: black;
+    background-color: #935d81!important;
+    max-height: 40px!important;
+    border-radius: 0px!important;
+} */
+
+.ad-btn {
+    color: white!important;
+   background-color: #ff3a9c!important;
+    border-radius: 0px!important;
+    max-height: 30px!important;
+    border-color:transparent!important;
+    padding:2px 20px!important;
+    margin:20px 0px;
+    text-align: center;
+
+}
+
+.ad-btn1 {
+  color: white!important;
+  background-color: #ff3a9c!important;
+  border-radius: 0px!important;
+  min-height: 40px!important;
+  border-color:transparent!important;
+  padding:2px 20px!important;
+  margin:20px 0px;
+  text-align: center;
+
+}
+
+.chat-div {
+  display: flex;
+  flex: 1;
+  position: relative;
+  z-index: 10;
+  /* left: -10%; */
+  flex-direction: row-reverse;
+}
+
+
+
+.image-position {
+  display: flex;
+  flex-direction: row;
+}
+
+.search-box {
+  position: absolute;
+  top: 10%;
+  left: 32.5%;
+  z-index: 1;
+  display: flex;
+  /* width:400px; */
+  width:"70%";
+  background-color: ghostwhite;
+  box-shadow: 1px 1px 1px 1px #888888;
+}
+
+.flex-div {
+    flex:1;
+    text-align: center;
+}
+.MuiFormLabel-root.Mui-focused {
+  color: #ff3a9c !important;
+}
+.card-body {
+  display: flex;
+  flex-direction: column;
+}
+.card-link {
+  color:#4d4d4d!important;
+  text-decoration: none;
+  margin:0px 0px;
+}
+.card-link:hover {
+  color: #ff3a9c!important;
+}
+.card-text {
+  flex:1;
+}
+.list-group-item {
+  padding: 0.5rem 0rem!important;
+}
+.card-title {
+  margin-bottom: 0.5rem;
+  font-weight: 430;
+}
+
+.card {
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 24%);
+}

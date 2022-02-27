@@ -1,0 +1,49 @@
+.chat {
+    position: relative;
+    z-index: 10;
+    left:-10%;
+}
+
+ .fa-wechat:before, .fa-weixin:before {
+    content: "\f1d7";
+    font-size: 60px;
+   background: -webkit-linear-gradient(#ff3a9c, #ff662b);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   display: inline-block;
+   position: fixed;
+   z-index:10;
+   top:85%;
+   margin-left: 20px;
+} 
+
+ /* .community {
+    position: relative;
+    z-index: 20;
+    left:-10%;
+}  */
+
+.fa-group:before, .fa-users:before {
+    content: "\f0c0";
+    font-size: 60px;
+   background: -webkit-linear-gradient(#ff3a9c, #ff662b);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   display: inline-block;
+   position: fixed;
+   z-index:10;
+} 
+
+
+.community {
+    position: fixed;
+    left: 0;
+    width: 43px;
+    height: 149px;
+    background: orange;
+    background: url(../../../../public/CustomerCare.JPG) no-repeat 0 0;
+    display: inline-block;
+    margin: 0;
+    cursor: pointer;
+    z-index: 2;
+}

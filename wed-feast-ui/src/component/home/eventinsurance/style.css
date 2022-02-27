@@ -1,0 +1,13 @@
+
+.eventInsurance {
+    position: fixed;
+    right: 0;
+    width: 43px;
+    height: 149px;
+    background: orange;
+    background: url(../../../../public/eventInsurancr.JPG) no-repeat 0 0;
+    display: inline-block;
+    margin: 0;
+    cursor: pointer;
+    z-index: 2;
+}

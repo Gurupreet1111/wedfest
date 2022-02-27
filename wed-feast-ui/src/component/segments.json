@@ -1,0 +1,220 @@
+{
+	"segments":[{
+		"id":"1",
+		"name":"Venue",
+		"img":"venue.png",
+		"hidden":false,
+		"description":[
+			{ "id":1,"vendor":1,"name":"Restaurant"},
+			{ "id":2,"vendor":1,"name":"Resort"},
+			{ "id":3,"vendor":1,"name":"Farm Houses"},
+			{ "id":4,"vendor":1,"name":"Banquest Halls"},
+			{ "id":5,"vendor":1,"name":"Party Lawns"},
+			{ "id":6,"vendor":1,"name":"Bar/Pubs"},
+			{ "id":7,"vendor":1,"name":"Tourism"}
+		]
+	},{
+		"id":"2",
+		"name":"Catering",
+		"img":"Catering.png",
+		"hidden":false,
+		"description":[{ "id":1,"vendor":2,"name":"Cake"},
+					   { "id":2,"vendor":2,"name":"Bartenders"},
+					   { "id":3,"vendor":2,"name":"Home Catering"},
+					   { "id":4,"vendor":2,"name":"Chaat & Food stalls"}]
+
+	},{
+		"id":"3",
+		"name":"Decor",
+		"img":"Decor.jpg",
+		"hidden":false,
+		"description":[
+			{ "id":1,"vendor":2,"name":"Stage Decor"},
+			{ "id":2,"vendor":2,"name":"Gate Decor"},
+			{ "id":3,"vendor":2,"name":"Ambiance,Articles"}]
+	},{
+		"id":"4",
+		"name":"Rentals",
+		"img":"Rentals.png",
+		"hidden":false,
+		"description":[{ "id":1,"vendor":2,"name":"Audio"},
+		{ "id":1,"vendor":2,"name":"Lights"},
+		{ "id":1,"vendor":2,"name":"LED Wall"},
+		{ "id":1,"vendor":2,"name":"Gensets"},
+		{ "id":1,"vendor":2,"name":"Cars"},
+		{ "id":1,"vendor":2,"name":"Sky Buildings"},
+		{ "id":1,"vendor":2,"name":"Stage"},
+		{ "id":1,"vendor":2,"name":"Mandap"}]
+	},{
+		"id":"5",
+		"name":"Photography",
+		"img":"Photography.jpeg",
+		"hidden":false,
+		"description":[{ "id":1,"vendor":2,"name":"Photographer"},
+		{ "id":1,"vendor":2,"name":"Cinema/Video"},
+		{ "id":1,"vendor":2,"name":"Pre-Wedding Shoot"}]
+	},{
+		"id":"6",
+		"name":"Planner",
+		"img":"Planner.jpeg",
+		"hidden":false,
+		"description":[{ "id":1,"vendor":2,"name":"Wedding Planner"},
+		{ "id":1,"vendor":2,"name":"Freelancer"},
+		{ "id":1,"vendor":2,"name":"Event Management"}]
+	},{
+		"id":"7",
+		"name":"Beautician",
+		"img":"Beautician.jpg",
+		"hidden":false,
+		"description":[{ "id":1,"vendor":2,"name":"Mehendi Artist"},
+		{ "id":1,"vendor":2,"name":"Bridal Make-up"},
+		{ "id":1,"vendor":2,"name":"Family Make-up"},{ "id":1,"vendor":2,"name":"Groom Make-up"}]
+	},{
+		"id":"8",
+		"name":"Wedding Shoot Cards",
+		"img":"WeddingCard.jpg",
+		"hidden":false,
+		"description":[{ "id":1,"vendor":2,"name":"Card designers"},
+			{ "id":1,"vendor":2,"name":"Printers"}]
+	},{
+		"id":"9",
+		"name":"Artist",
+		"img":"Artist.jpg",
+		"hidden":false,
+		"description":[{ "id":1,"vendor":2,"name":"Live Singers"},
+			{ "id":1,"vendor":2,"name":"Bands"},
+			{ "id":1,"vendor":2,"name":"DJ's"},
+			{ "id":1,"vendor":2,"name":"Comedian"}]
+	},{
+		"id":"10",
+		"name":"Jewellery",
+		"img":"Jewellery.jpg",
+		"hidden":false,
+		"description":[
+			{ "id":1,"vendor":2,"name":"Jewellery"},
+			{ "id":1,"vendor":2,"name":"Flower jewellery"},
+			{ "id":1,"vendor":2,"name":"Bridal jewellery on rent"},
+			{ "id":1,"vendor":2,"name":"Accessories"},
+			{ "id":1,"vendor":2,"name":"Articals"}
+		]
+
+	},{
+		"id":"11",
+		"name":"Bridal Wear",
+		"img":"BridalWear.jpeg",
+		"hidden":false,
+		"description":[
+			{ "id":1,"vendor":2,"name":"Bridal lehengas"},
+			{ "id":1,"vendor":2,"name":"Cocktail Gowns"},
+			{ "id":1,"vendor":2,"name":"Kanjeevaram / Silk sarees"}
+		]
+	},{
+		"id":"12",
+		"name":"Groom Wear",
+		"img":"GroomWear.jpeg",
+		"hidden":false,
+		"description":[
+			{ "id":1,"vendor":2,"name":"Sherwani"},
+			{ "id":1,"vendor":2,"name":"Salwar Kamiz"},
+			{ "id":1,"vendor":2,"name":"Sherwani on rent"},
+			{ "id":1,"vendor":2,"name":"Footwear"},
+			{ "id":1,"vendor":2,"name":"Wedding suits/tuxes"}
+		]
+	},{
+		"id":"13",
+		"name":"Choreographer",
+		"img":"Choreographer.jpg",
+		"hidden":false,
+		"description":[
+			{ "id":1,"vendor":2,"name":"Choreographers"},
+			{ "id":1,"vendor":2,"name":"Dance groups"}
+		]
+	},{
+		"id":"14",
+		"name":"Transportation",
+		"img":"Transportation.jpg",
+		"hidden":false,
+		"description":[
+			{ "id":1,"vendor":2,"name":"Taxi"},
+			{ "id":1,"vendor":2,"name":"Mini bus"},
+			{ "id":1,"vendor":2,"name":"Bus"},
+			{ "id":1,"vendor":2,"name":"Train booking"},
+			{ "id":1,"vendor":2,"name":"Flight booking"},
+			{ "id":1,"vendor":2,"name":"Cab services"},
+			{ "id":1,"vendor":2,"name":"Driver"}
+			]
+	},{
+		"id":"15",
+		"name":"Gifts",
+		"img":"Gifts.jpg",
+		"hidden":false,
+		"description":[
+			{ "id":1,"vendor":2,"name":"Invitation"}]
+	},{
+		"id":"16",
+		"name":"Barat",
+		"img":"Barat.jpg",
+		"hidden":false,
+		"description":[
+			{ "id":1,"vendor":2,"name":"Band"},
+			{ "id":1,"vendor":2,"name":"Ghodi"},
+			{ "id":1,"vendor":2,"name":"Light lamps"},
+			{ "id":1,"vendor":2,"name":"Vintage cars"}]
+	},{
+		"id":"25",
+		"name":"Entry Ideas",
+		"img":"EventInsurance.jpeg",
+		"hidden":false,
+		"description":[{ "id":1,"vendor":2,"name":"Wedding pandits"}]
+	},{
+		"id":"17",
+		"name":"Pandits",
+		"img":"Pandits.jpg",
+		"hidden":false,
+		"description":[
+			{ "id":1,"vendor":2,"name":"Wedding pandits"}]
+	},{
+		"id":"18",
+		"name":"Destination Wedding Shoot",
+		"img":"DestinationWedding.jpg",
+		"hidden":false,
+		"description":[
+			{ "id":1,"vendor":2,"name":"Domestic"},
+				{ "id":1,"vendor":2,"name":"International"}
+			]
+	},{
+		"id":"19",
+		"name":"Surprise Event",
+		"img":"SurpriseEvent.jpg",
+		"hidden":false,
+		"description":[{ "id":1,"vendor":2,"name":"Birthday surprises"},
+			{ "id":1,"vendor":2,"name":"Anniversary surprise"},
+			{ "id":1,"vendor":2,"name":"Proposals"}]
+	},{
+		"id":"20",
+		"name":"Honeymoon",
+		"img":"Honeymoon.jpg",
+		"hidden":false,
+		"description":[{ "id":1,"vendor":2,"name":"Honeymoon packages"}]
+	},{
+		"id":"21",
+		"name":"Photo-Gallery",
+		"img":"Photo-Gallery.jpeg",
+		"hidden":false,
+		"description":[{ "id":1,"vendor":2,"name":"Honeymoon packages"}]
+	},{
+		"id":"22",
+		"name":"Security",
+		"img":"Security.jpeg",
+		"hidden":false,
+		"description":[{ "id":1,"vendor":2,"name":"Bouncers"},
+		{ "id":1,"vendor":2,"name":"Watchmen"}]
+	},{
+		"id":"24",
+		"name":"Hospitality",
+		"img":"Hospitality.jpeg",
+		"hidden":false,
+		"description":[{ "id":1,"vendor":2,"name":"House-keeping"},
+		{ "id":1,"vendor":2,"name":"Waters"}]
+	}]
+}

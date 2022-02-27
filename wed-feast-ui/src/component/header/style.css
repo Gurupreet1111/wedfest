@@ -1,0 +1,52 @@
+.header {
+    /* height: 4%; */
+    /* background-image: linear-gradient( #AF1281,#CF268A); */
+     background-color: #ff3a9c;
+     display:flex;
+     flex-direction: row;
+/* background-image: url("../../assets/images/barat.jpg");
+     background-repeat: no-repeat;
+     background-size: 100% 100%; 
+     background-size: cover; */
+    
+}
+
+.title {
+     color:white;
+     color: white;
+     font-size: 41px;
+     margin: 9px 12px;
+     font-weight: bolder;
+     flex:1;
+}
+
+.login-div {
+     margin: 10px;
+
+}
+
+.fa-user-circle:before {
+     content: "\f2bd";
+     color: white;
+     font-size: 40px;
+}
+
+.header-links {
+     margin: 10px;
+     /* text-align: center; */
+     align-items: center;
+     /* justify-content: center; */
+     display: flex;
+ }
+
+ a {
+     color: white!important;
+     margin:0px 10px;
+     /* text-decoration: underline; */
+ }
+
+ .free-registration {
+      background-color:#ff662b;
+      padding: 10px 10px;
+      font-weight: bold;
+ }
